@@ -8,8 +8,8 @@ This repository contains a Python implementation of the A* pathfinding algorithm
 4. Run the script astar_pathfinding.py.
 
 - Code Overview:
-astar_pathfinding.py: Contains the implementation of the A* algorithm.
-README.md: Provides information about the code and how to use it.
+1. astar_pathfinding.py: Contains the implementation of the A* algorithm.
+2. README.md: Provides information about the code and how to use it.
 
 - Dependencies:
 1. numpy
